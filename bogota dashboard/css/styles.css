@@ -18,7 +18,7 @@ body {
 }
 
 h1 {
-  font-family: "Bebas Neue", sans-serif; 
+  font-family: "Impact", sans-serif; 
   font-weight: 300; 
   font-style: italic; 
   font-size: 2rem;
@@ -54,7 +54,7 @@ h1 { grid-area: title; }
 
 .park-type {
   display:inline;
-  font-family: "Bebas Neue", sans-serif; 
+  font-family: "Impact", sans-serif; 
   margin-top: 3rem;
   border: 1px solid green;
   border-radius: 0.3rem;
@@ -105,8 +105,8 @@ h1 { grid-area: title; }
 
 label {
   display: block;
-  font-family: "Bebas Neue", sans-serif; 
-  font-size:1.5rem
+  font-family: "Impact", sans-serif; 
+  font-size:1.2rem
 }
 
 [name="park-filter-name"] {
